@@ -1,6 +1,6 @@
 const Joi = require('joi');
 
-//added validations to verify format of the receipt processed
+// added validations to verify format of the receipt processed
 
 
 
