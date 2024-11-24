@@ -6,4 +6,5 @@
 4)  Test the endpoints through postman
 5)  Endpoints are
       Process receipt (POST) - http://localhost:3000/receipts/process
+    
       Get Points (GET) - http://localhost:3000/receipts/{id}/points
