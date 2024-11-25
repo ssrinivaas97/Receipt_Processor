@@ -2,8 +2,6 @@ const Joi = require('joi');
 
 // added validations to verify format of the receipt processed
 
-
-
 const itemSchema = Joi.object({
     shortDescription: Joi.string()
         .pattern(/^[\s\S]+$/) // Allow all characters

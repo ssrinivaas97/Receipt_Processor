@@ -1,4 +1,4 @@
-## Steps to start running and testing the app.
+## Steps to start running the application.
 
 1)  Clone the repository into your local environment
 2)  Open terminal and go into the repository until you see the docker and docker compose yml file.
